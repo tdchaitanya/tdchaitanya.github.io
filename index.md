@@ -27,6 +27,10 @@ I am always excited to talk and learn from people. If you have any questions / w
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Oct 2021]</strong></td>
+        <td>Serving as a reviewer for ICLR-2022</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Sep 2021]</strong></td>
         <td>Updated and the final version of <a href="https://openaccess.thecvf.com/content/ICCV2021W/AROW/html/Devaguptapu_On_Adversarial_Robustness_A_Neural_Architecture_Search_Perspective_ICCVW_2021_paper.html"> On Adversarial Robustness: A Neural Architecture Search Perspective </a> is accepted at the <a href="https://iccv21-adv-workshop.github.io/"> Adversarial Robustness in the Real World</a> workshop at <b>ICCV-21</b>
         </td>
