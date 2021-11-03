@@ -12,7 +12,7 @@ I am a Masters by Research (M.Tech-RA) student at the Computer Science departmen
 
 I am broadly interested in problems related to computer vision and deep learning. My most recent works primarily focus on data-efficient learning (active learning, transfer learning, multi-modal learning), adversarial robustness, and Neural Architecture Search. Apart from this, I am also very interested in Applied ML projects that positively impact real-world, industry-related problems. 
 
-Apart from my research, I like teaching (and therefore learning) state-of-the-art Applied ML concepts to students from diverse backgrounds. I work as a Small Group coach with [upGrad](https://www.upgrad.com/) where I help students understand various machine learning and data science concepts more clearly. Earlier, I served as a student mentor for Udacity’s AI, ML, and Deep Learning Nanodegrees. 
+Apart from my research, I like teaching (and therefore learning) state-of-the-art Applied ML concepts to students from diverse backgrounds. I work as a Small Group coach with [upGrad](https://www.upgrad.com/) where I help students understand various machine learning and data science concepts. Earlier, I served as a student mentor for Udacity’s AI, ML, and Deep Learning Nanodegrees. 
 
 <!-- Before I joined IIT-Hyderabad, I completed my undergraduate in 2018 from Department of Electronics and Communication Engineering, [Keshav Memorial Institute Of Technology](https://kmit.in/) affiliated with [Jawaharlal Nehru Technological University, Hyderabad](https://jntuh.ac.in/)   -->
 
