@@ -54,10 +54,6 @@ I am always excited to talk and learn from people. If you have any questions / w
         <td> Our work <a href=""> On Adversarial Robustness: A Neural Architecture Search perspective </a> is accepted at 4 <b>ICLR-21</b> workshops! <b>Contributed talk</b> at Responsible AI workshop 🌟</td>
     </tr>    
     <tr>
-        <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td>Excited to visit (virtually)<a href="https://www.pair.toronto.edu/"> PAIR lab, University of Toronto</a> as a graduate visiting researcher! 🌟</td>
-    </tr>    
-    <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
         <td>I am working as a Teaching Assitant for the Deep Learning for Computer Vision course at IIT-H. (Instructor: Vineeth N Balasubramanian). <a href="https://onlinecourses.nptel.ac.in/noc21_cs93/preview"> Online version </a> of the course is also available open through NPTEL, India</td>
     </tr>
