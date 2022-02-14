@@ -28,6 +28,10 @@ I am always excited to talk and learn from people. If you have any questions / w
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Oct 2021]</strong></td>
+        <td>Serving as a reviewer for IEEE Pattern Recognition Journal</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Oct 2021]</strong></td>
         <td>Serving as a reviewer for ICLR-2022</td>
     </tr>
     <tr>
