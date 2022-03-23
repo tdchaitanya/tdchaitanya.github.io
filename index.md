@@ -27,6 +27,14 @@ I am always excited to talk and learn from people. If you have any questions / w
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Feb 2022]</strong></td>
+        <td>Selected to attend <a href="https://sites.google.com/view/researchweek2022"> Research week with Google </a> organised by Google Research India</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2022]</strong></td>
+        <td>Serving as a reviewer for IEEE Pattern Recognition Journal</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Oct 2021]</strong></td>
         <td>Serving as a reviewer for IEEE Pattern Recognition Journal</td>
     </tr>
@@ -56,10 +64,6 @@ I am always excited to talk and learn from people. If you have any questions / w
     <tr>
         <td valign="top"><strong>[Mar 2021]</strong></td>
         <td> Our work <a href=""> On Adversarial Robustness: A Neural Architecture Search perspective </a> is accepted at 4 <b>ICLR-21</b> workshops! <b>Contributed talk</b> at Responsible AI workshop 🌟</td>
-    </tr>    
-    <tr>
-        <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td>Excited to visit (virtually)<a href="https://www.pair.toronto.edu/"> PAIR lab, University of Toronto</a> as a graduate visiting researcher! 🌟</td>
     </tr>    
     <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
