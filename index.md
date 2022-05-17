@@ -27,15 +27,19 @@ I am always excited to talk and learn from people. If you have any questions / w
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[May 2022]</strong></td>
+        <td>Serving as a (emergency) reviewer for ECCV-2022</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Apr 2022]</strong></td>
+        <td>Received Appreciation in Research award from IIT-Hyderabad 🌟</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>
         <td>Selected to attend <a href="https://sites.google.com/view/researchweek2022"> Research week with Google </a> organised by Google Research India</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2022]</strong></td>
-        <td>Serving as a reviewer for IEEE Pattern Recognition Journal</td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Oct 2021]</strong></td>
         <td>Serving as a reviewer for IEEE Pattern Recognition Journal</td>
     </tr>
     <tr>

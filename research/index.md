@@ -10,7 +10,7 @@ My interests broadly lie in the fields of computer vision, machine learning and 
 
 ### Publications
 
-* [**Adaptive Skip Connections for Data Efficient Transfer Learning**]()  
+* [**On the Use of Skip Connections for Transfer Learning**]()  
  **Chaitanya Devaguptapu**, Samarth Sinha, Vineeth N Balasubramanian, Animesh Garg  
 *Under Review*  
 <!-- [<button type="button" class="btn btn-danger">ArXiv</button>]()
