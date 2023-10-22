@@ -1,22 +1,29 @@
 ---
 layout: page
-title: Welcome
+title: 
 tags: [chaitanya, devaguptapu, iith, computer vision, machine learning, deep learning, active learning, transfer learning]
 modified:
 comments: false
 ---
+Hi,
 
-Hi!  
+I'm an Applied Researcher at Fujitsu Research India, where my work primarily revolves around computer vision. Specifically, I focus on integrating non-Euclidean learning approaches into computer vision problems. Prior to joining Fujitsu, I completed my Masters by Research (M.Tech-RA) in Computer Science from IIT-Hyderabad. I was fortunate to be advised by [Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/). During my Masters, I was also a graduate visiting researcher at the University of Toronto and Vector Institute with [Animesh Garg](https://animesh.garg.tech/).
+
+My research interests are diverse but converge around computer vision and deep learning. Specifically, my previous works have been focused on data-efficient learning techniques such as active learning, transfer learning, and multi-modal learning. I have also explored topics such as adversarial robustness and Neural Architecture Search. Beyond solving research problems, I am also keen on applying machine learning to address real-world, industry-specific challenges.
+
+While I have enjoyed a variety of teaching roles in the past, my current focus is on applied research. I used to serve as a Small Group coach at [upGrad](https://www.upgrad.com/), was a student mentor for Udacity's Nanodegree programs in AI, ML, and Deep Learning, and also worked as a Teaching Assistant at IIT-Hyderabad, where I was involved in creating assignments, content, and evaluation for various deep learning and machine learning courses.
+
+<!-- Hi!  
 
 I am a Masters by Research (M.Tech-RA) student at the Computer Science department, IIT-Hyderabad working with [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/). I also work as a graduate visiting researcher at University of Toronto and Vector Institue with [Dr. Animesh Garg](https://animesh.garg.tech/).
 
 I am broadly interested in problems related to computer vision and deep learning. My most recent works primarily focus on data-efficient learning (active learning, transfer learning, multi-modal learning), adversarial robustness, and Neural Architecture Search. Apart from this, I am also very interested in Applied ML projects that positively impact real-world, industry-related problems. 
 
-Apart from my research, I like teaching (and therefore learning) state-of-the-art Applied ML concepts to students from diverse backgrounds. I work as a Small Group coach with [upGrad](https://www.upgrad.com/) where I help students understand various machine learning and data science concepts. Earlier, I served as a student mentor for Udacity’s AI, ML, and Deep Learning Nanodegrees. 
+Apart from my research, I like teaching (and therefore learning) state-of-the-art Applied ML concepts to students from diverse backgrounds. I work as a Small Group coach with [upGrad](https://www.upgrad.com/) where I help students understand various machine learning and data science concepts. Earlier, I served as a student mentor for Udacity’s AI, ML, and Deep Learning Nanodegrees.  -->
 
 <!-- Before I joined IIT-Hyderabad, I completed my undergraduate in 2018 from Department of Electronics and Communication Engineering, [Keshav Memorial Institute Of Technology](https://kmit.in/) affiliated with [Jawaharlal Nehru Technological University, Hyderabad](https://jntuh.ac.in/)   -->
 
-I am always excited to talk and learn from people. If you have any questions / want to collaborate, feel free to drop a line by email!
+<!-- I am always excited to talk and learn from people. If you have any questions / want to collaborate, feel free to drop a line by email! -->
 
 ----
 
@@ -26,6 +33,46 @@ I am always excited to talk and learn from people. If you have any questions / w
 <table class='news-table' >
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Sep 2023]</strong></td>
+        <td>Serving as a review for ICLR</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Aug 2023]</strong></td>
+        <td>One paper accepted at WACV 2024 🌟</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[July 2023]</strong></td>
+        <td>Got promoted to Applied Researcher II (in a span of 11 months) 🌟</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[July 2023]</strong></td>
+        <td>Serving as a reviewer for AAAI, WACV</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[July 2023]</strong></td>
+        <td>Paper on improving annotation efficiency accepted at ICML workshops</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[June 2023]</strong></td>
+        <td>Serving as a reviewer for NeurIPS-2023</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Aug 2022]</strong></td>
+        <td>Serving as a reviewer for AAAI-2023</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Aug 2022]</strong></td>
+        <td>After four wonderful years (1 year as a RA and 3 years as a Masters with Research student) at IIT Hyderabad, I am joining Fujitsu Research of India as an Applied Researcher-I</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[July 2022]</strong></td>
+        <td>Serving as a reviewer for WACV-23 and ACCV-2022</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[June 2022]</strong></td>
+        <td>Serving as a reviewer for NeurIPS-2022</td>
+    </tr>
     <tr>
         <td valign="top"><strong>[May 2022]</strong></td>
         <td>Serving as a (emergency) reviewer for ECCV-2022</td>

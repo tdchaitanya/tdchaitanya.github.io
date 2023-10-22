@@ -9,8 +9,8 @@
 # - title: Posts
 #   url: /posts/
 
-- title: Resume
+- title: CV
   url: /resume/CV.pdf
 
-- title: Contact
-  url: /contact/
+# - title: Contact
+#   url: /contact/
