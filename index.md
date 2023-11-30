@@ -254,3 +254,7 @@ Apart from my research, I like teaching (and therefore learning) state-of-the-ar
         <td>Polycom Research<br>Summer 2016</td>
     </tr>
 </table> -->
+<!-- <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101435395"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async src="//static.getclicky.com/101435395.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101435395ns.gif" /></p></noscript> -->
+<script async data-id="101435395" src="//static.getclicky.com/js"></script>
