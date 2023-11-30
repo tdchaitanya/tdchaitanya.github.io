@@ -12,7 +12,7 @@ My interests broadly lie in the fields of computer vision, machine learning and 
 
 * [**Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation**](https://arxiv.org/abs/2308.14126)  
 Siddharth Katageri<sup>&dagger;</sup>, Arkadipta De<sup>&dagger;</sup>, **Chaitanya Devaguptapu**<sup>&dagger;</sup>, VSSV Prasad, Charu Sharma, Manohar Kaul<br>
-In Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), Hawaii, USA. 2024 <br>
+In Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), Hawaii, USA. 2024 <br>  <span style="color:blue;font-size:15px" >Oral (Top ~7% of all the accepted papers) </span> <br> 
  <sup><sup>&dagger;</sup> Equal Contribution</sup>  
 [<button type="button" class="btn btn-danger">arXiv</button>](https://arxiv.org/abs/2308.14126)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/siddharthKatageri/COT)
@@ -46,7 +46,8 @@ Shivangana Rawat, **Chaitanya Devaguptapu**, Vineeth N Balasubramanian <br>
 
 * [**Borrow From Anywhere: Pseudo Multi-Modal Object Detection in Thermal Imagery**](http://arxiv.org/abs/1905.08789)  
  **Chaitanya Devaguptapu**, Ninad Akolekar, Manuj M Sharma, Vineeth N Balasubramanian <br>
-Workshop on Perception beyond visible spectrum, IEEE/CVF International Conference on Computer Vision and Pattern recognition (CVPR’19)  <span style="color:blue;font-size:15px" >[Spotlight] <br>
+Workshop on Perception beyond visible spectrum, IEEE/CVF International Conference on Computer Vision and Pattern recognition (CVPR’19) <br>
+ <span style="color:blue;font-size:15px" >(Spotlight, Among top 6 of the 30 accepted papers) <br>
 [<button type="button" class="btn btn-danger">arXiv</button>](http://arxiv.org/abs/1905.08789)
 [<button type="button" class="btn btn-info">Code</button>](https://github.com/tdchaitanya/MMTOD)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/chaitanyammtod2019_poster)
