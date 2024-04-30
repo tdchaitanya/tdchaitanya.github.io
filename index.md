@@ -34,8 +34,12 @@ Apart from my research, I like teaching (and therefore learning) state-of-the-ar
     <col width="15%">
     <col width="85%">
     <tr>
+ 	<td valign="top"><strong>[Oct 2023]</strong></td>
+	<td>I have started leading a small team that works on GenAI research at Fujitsu Research India!</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Sep 2023]</strong></td>
-        <td>Serving as a review for ICLR</td>
+        <td>Serving as a reviewer for ICLR</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Aug 2023]</strong></td>
