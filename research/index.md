@@ -6,13 +6,24 @@ modified:
 comments: false
 ---
 
-My interests broadly lie in the fields of computer vision, machine learning and with applications in problems related to data-efficient learning.
+Currently, my research interest spans the broader spectrum of Generative AI. I gravitate towards problems at opposite ends of the spectrum - either those with clear practical applications or purely exploratory endeavors that spark curiosity.
+
 
 ### Publications
 
+* [**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**](https://arxiv.org/abs/2501.17767)  
+Ankush Agarwal, Ganesh S, **Chaitanya Devaguptapu**<br>
+In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025 - Main Track)<br> 
+[<button type="button" class="btn btn-danger">arXiv</button>](https://arxiv.org/abs/2501.17767)
+
+* [**Towards a Training Free Approach for 3D Scene Editing**](https://arxiv.org/abs/2412.12766)  
+Vivek Madhavaram, Shivangana Rawat, **Chaitanya Devaguptapu**, Charu Sharma, Manohar Kaul<br>
+In Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), Hawaii, USA. 2025<br> 
+[<button type="button" class="btn btn-danger">arXiv</button>](https://arxiv.org/abs/2412.12766)
+
 * [**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**](https://arxiv.org/abs/2406.06027)  
 Pranoy Panda, Ankush Agarwal, **Chaitanya Devaguptapu**, Manohar Kaul, Prathosh A P <br>
-In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)<br> 
+In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024 - Main Track)<br> 
 [<button type="button" class="btn btn-danger">arXiv</button>](https://arxiv.org/abs/2406.06027)
 
 * [**Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation**](https://arxiv.org/abs/2308.14126)  

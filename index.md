@@ -7,9 +7,10 @@ comments: false
 ---
 Hi, 
 
-I'm a Researcher at Fujitsu Research India, working on Generative AI, particularly the intersection of LLMs and Knowledge Graphs for enterprise applications. I hold a Master's by Research (M.Tech-RA) in Computer Science from IIT-Hyderabad, advised by Vineeth N Balasubramanian. I also had the opportunity to be a visiting researcher at the University of Toronto and Vector Institute with Animesh Garg.
+I'm a Researcher at Fujitsu Research India, focusing on Generative AI and related applications. I gravitate towards problems at opposite ends of the spectrum - either those with clear practical applications or purely exploratory endeavors that spark curiosity. I completed my Master's by Research (M.Tech-RA) in Computer Science from IIT-Hyderabad, where I was fortunate to be advised by [Prof. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). During my graduate studies, I also had the opportunity to work as a visiting researcher at the University of Toronto and Vector Institute with [Prof. Animesh Garg](https://animesh.garg.tech/).
 
-My research interests are diverse but converge around computer vision and deep learning. Specifically, my previous works have been focused on data-efficient learning techniques such as active learning, transfer learning, and multi-modal learning. I have also explored topics such as adversarial robustness and Neural Architecture Search. Beyond solving research problems, I am also keen on applying machine learning to address real-world, industry-specific challenges.
+My research journey began in computer vision and deep learning during my Master's, where I explored [Data-efficient learning](https://chaitanya.one/resume/Masters_Thesis_Chaitanya.pdf) techniques including active learning, transfer learning, and multi-modal learning. Currently, my work spans the broader spectrum of Generative AI, where I combine research insights with engineering to deliver useful solutions. Throughout my academic career, I've maintained a strong connection to education and teaching, serving as a Teaching Assistant for various courses at IIT-Hyderabad and serving as mentor and coach with platforms like Udacity and UpGrad.
+
 
 <!-- Hi,
 
@@ -40,8 +41,20 @@ Apart from my research, I like teaching (and therefore learning) state-of-the-ar
     <col width="15%">
     <col width="85%">
     <tr>
+ 	<td valign="top"><strong>[Jan 2025]</strong></td>
+	<td>Our work on Hybrid Graphs for Table-Text QA is accepted at NAACL-2025 </td>
+    </tr>
+    <tr>
+ 	<td valign="top"><strong>[Jan 2025]</strong></td>
+	<td>My Team has won the Fujistu Research India's grand award for our work on Knowledge Graphs </td>
+    </tr>
+    <tr>
+ 	<td valign="top"><strong>[Oct 2024]</strong></td>
+	<td>Our work on developing a training free approach for 3D Scene Editing is accepted at WACV-2025 </td>
+    </tr>
+    <tr>
  	<td valign="top"><strong>[May 2024]</strong></td>
-	<td>Our working on levergaing Knowledge Graph for answering multi-hop questions is accepted at ACL-2024 🌟 </td>
+	<td>Our work on leveraging Knowledge Graph for answering multi-hop questions is accepted at ACL-2024 🌟 </td>
     </tr>
     <tr>
         <td valign="top"><strong>[June 2024]</strong></td>
@@ -140,7 +153,7 @@ Apart from my research, I like teaching (and therefore learning) state-of-the-ar
     </tr>    
     <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
-        <td>I am working as a Teaching Assitant for the Deep Learning for Computer Vision course at IIT-H. (Instructor: Vineeth N Balasubramanian). <a href="https://onlinecourses.nptel.ac.in/noc21_cs93/preview"> Online version </a> of the course is also available open through NPTEL, India</td>
+        <td>I am working as a Teaching Assistant for the Deep Learning for Computer Vision course at IIT-H. (Instructor: Vineeth N Balasubramanian). <a href="https://onlinecourses.nptel.ac.in/noc21_cs93/preview"> Online version </a> of the course is also available open through NPTEL, India</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
@@ -202,7 +215,7 @@ Apart from my research, I like teaching (and therefore learning) state-of-the-ar
     </tr>
     <tr>
         <td valign="top"><strong>[July 2019]</strong></td>
-        <td> Started my Masters with Research Assistantship at IIT Hyderbad. Fortunate to have <a href="https://www.iith.ac.in/~vineethnb/index.html">Dr. Vineeth Balasubramanian </a> as my advisor. 🌟
+        <td> Started my Masters with Research Assistantship at IIT Hyderabad. Fortunate to have <a href="https://www.iith.ac.in/~vineethnb/index.html">Dr. Vineeth Balasubramanian </a> as my advisor. 🌟
         </td>
     </tr>
     <tr>
