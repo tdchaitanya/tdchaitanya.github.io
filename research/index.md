@@ -11,20 +11,30 @@ Currently, my research interest spans the broader spectrum of Generative AI. I g
 
 ### Publications
 
+* [**Finding Needles in Images: Can Multimodal LLMs Locate Fine Details?**](https://www.arxiv.org/abs/2508.05053)  
+Parth Thakkar, Ankush Agarwal, Prasad Kasu, Pulkit Bansal, **Chaitanya Devaguptapu**<br>
+In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 - Main Track)<br> 
+[<button type="button" class="btn btn-danger">arXiv</button>](https://www.arxiv.org/abs/2508.05053)
+[<button type="button" class="btn btn-success">Poster</button>](/reports/finding_needles_poster.pdf)
+[<button type="button" class="btn btn-warning">Blog</button>](https://blog-en.fltech.dev/entry/2025/06/02/NAACL25-HybridGraphs-en)
+
 * [**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**](https://arxiv.org/abs/2501.17767)  
 Ankush Agarwal, Ganesh S, **Chaitanya Devaguptapu**<br>
 In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025 - Main Track)<br> 
 [<button type="button" class="btn btn-danger">arXiv</button>](https://arxiv.org/abs/2501.17767)
+[<button type="button" class="btn btn-success">Poster</button>](/reports/Hybrid-Graphs_NAACL25_Poster.pdf)
 
 * [**Towards a Training Free Approach for 3D Scene Editing**](https://arxiv.org/abs/2412.12766)  
 Vivek Madhavaram, Shivangana Rawat, **Chaitanya Devaguptapu**, Charu Sharma, Manohar Kaul<br>
 In Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), Hawaii, USA. 2025<br> 
 [<button type="button" class="btn btn-danger">arXiv</button>](https://arxiv.org/abs/2412.12766)
+[<button type="button" class="btn btn-success">Poster</button>](/reports/towards_training_free_editingposter.pdf)
 
 * [**HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs**](https://arxiv.org/abs/2406.06027)  
 Pranoy Panda, Ankush Agarwal, **Chaitanya Devaguptapu**, Manohar Kaul, Prathosh A P <br>
 In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024 - Main Track)<br> 
 [<button type="button" class="btn btn-danger">arXiv</button>](https://arxiv.org/abs/2406.06027)
+[<button type="button" class="btn btn-success">Poster</button>](/reports/ACL24_HOLMES_poster.pdf)
 
 * [**Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation**](https://arxiv.org/abs/2308.14126)  
 Siddharth Katageri<sup>&dagger;</sup>, Arkadipta De<sup>&dagger;</sup>, **Chaitanya Devaguptapu**<sup>&dagger;</sup>, VSSV Prasad, Charu Sharma, Manohar Kaul<br>
