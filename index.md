@@ -42,6 +42,10 @@ Apart from my research, I like teaching (and therefore learning) state-of-the-ar
     <col width="85%">
     <tr>
  	<td valign="top"><strong>[Aug 2025]</strong></td>
+	<td>Three papers accepted at EMNLP-2025 (One in Main track and two in Findings) 🌟</td>
+    </tr>
+    <tr>
+ 	<td valign="top"><strong>[Aug 2025]</strong></td>
 	<td>Our work on <a href="https://www.arxiv.org/abs/2508.05053">Finding needles in images</a> received a <a href="https://2025.aclweb.org/program/awards/">Highlights award </a>at ACL-2025 🌟</td>
     </tr>
     <tr>

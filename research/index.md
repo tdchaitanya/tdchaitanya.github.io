@@ -11,6 +11,19 @@ Currently, my research interest spans the broader spectrum of Generative AI. I g
 
 ### Publications
 
+* [**Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments**]()  
+Harsh Vishwakarma, Ankush Agarwal, Ojas Patil, **Chaitanya Devaguptapu**, Mahesh Chandran<br>
+In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Main Track)<br> 
+
+* [**Adaptive LLM Routing under Budget Constraints**]()  
+Pranoy Panda, Raghav Magazine, **Chaitanya Devaguptapu**, Sho Takemori, Vishal Sharma<br>
+In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Findings)<br> 
+
+* [**Evaluating Compound AI Systems through Behaviors, Not Benchmarks**]()  
+Pranav Bhagat, K N Ajay Shastry, Pranoy Panda, **Chaitanya Devaguptapu**<br>
+In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Findings)<br> 
+
+
 * [**Finding Needles in Images: Can Multimodal LLMs Locate Fine Details?**](https://www.arxiv.org/abs/2508.05053)  
 Parth Thakkar, Ankush Agarwal, Prasad Kasu, Pulkit Bansal, **Chaitanya Devaguptapu**<br>
 In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 - Main Track)<br> 
