@@ -13,15 +13,21 @@ Currently, my research interest spans the broader spectrum of Generative AI. I g
 
 * [**Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments**]()  
 Harsh Vishwakarma, Ankush Agarwal, Ojas Patil, **Chaitanya Devaguptapu**, Mahesh Chandran<br>
-In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Main Track)<br> 
+In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Main Track)<br>
+[<button type="button" class="btn btn-danger">Paper</button>](https://aclanthology.org/2025.emnlp-main.466/)
+[<button type="button" class="btn btn-warning">Blog</button>](https://ast-fri.github.io/EnterpriseBench/)
 
 * [**Adaptive LLM Routing under Budget Constraints**]()  
 Pranoy Panda, Raghav Magazine, **Chaitanya Devaguptapu**, Sho Takemori, Vishal Sharma<br>
 In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Findings)<br> 
+[<button type="button" class="btn btn-danger">Paper</button>](https://aclanthology.org/2025.findings-emnlp.1301/)
+[<button type="button" class="btn btn-warning">Blog</button>](https://ast-fri.github.io/contextual-bandit-routing-of-llms/)
 
 * [**Evaluating Compound AI Systems through Behaviors, Not Benchmarks**]()  
 Pranav Bhagat, K N Ajay Shastry, Pranoy Panda, **Chaitanya Devaguptapu**<br>
-In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Findings)<br> 
+In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Findings)<br>
+[<button type="button" class="btn btn-danger">Paper</button>](https://aclanthology.org/2025.findings-emnlp.1314/)
+[<button type="button" class="btn btn-warning">Blog</button>](https://ast-fri.github.io/bdd_evaluation/)
 
 
 * [**Finding Needles in Images: Can Multimodal LLMs Locate Fine Details?**](https://www.arxiv.org/abs/2508.05053)  
@@ -29,13 +35,13 @@ Parth Thakkar, Ankush Agarwal, Prasad Kasu, Pulkit Bansal, **Chaitanya Devagupta
 In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 - Main Track)<br>  <span style="color:blue;font-size:15px" >SAC Highlights award recipient (Top ~1% of all the accepted papers) -- [Awards@ACL-2025](https://2025.aclweb.org/program/awards/#sac-highlights) </span> <br> 
 [<button type="button" class="btn btn-danger">arXiv</button>](https://www.arxiv.org/abs/2508.05053)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/finding_needles_poster.pdf)
-[<button type="button" class="btn btn-warning">Blog</button>](https://blog-en.fltech.dev/entry/2025/06/02/NAACL25-HybridGraphs-en)
 
 * [**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**](https://arxiv.org/abs/2501.17767)  
 Ankush Agarwal, Ganesh S, **Chaitanya Devaguptapu**<br>
 In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025 - Main Track)<br> 
 [<button type="button" class="btn btn-danger">arXiv</button>](https://arxiv.org/abs/2501.17767)
 [<button type="button" class="btn btn-success">Poster</button>](/reports/Hybrid-Graphs_NAACL25_Poster.pdf)
+[<button type="button" class="btn btn-warning">Blog</button>](https://blog-en.fltech.dev/entry/2025/06/02/NAACL25-HybridGraphs-en)
 
 * [**Towards a Training Free Approach for 3D Scene Editing**](https://arxiv.org/abs/2412.12766)  
 Vivek Madhavaram, Shivangana Rawat, **Chaitanya Devaguptapu**, Charu Sharma, Manohar Kaul<br>
