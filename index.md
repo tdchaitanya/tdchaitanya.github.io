@@ -7,7 +7,7 @@ comments: false
 ---
 Hi, 
 
-I'm a Researcher at Fujitsu Research India, focusing on Generative AI and related applications. I gravitate towards problems at opposite ends of the spectrum - either those with clear practical applications or purely exploratory endeavors that spark curiosity. I completed my Master's by Research (M.Tech-RA) in Computer Science from IIT-Hyderabad, where I was fortunate to be advised by [Prof. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). During my graduate studies, I also had the opportunity to work as a visiting researcher at the University of Toronto and Vector Institute with [Prof. Animesh Garg](https://animesh.garg.tech/).
+I'm a Researcher at Fujitsu Research India, focusing on Generative AI and it's applications. I gravitate towards problems at opposite ends of the spectrum - either those with clear practical applications or purely exploratory endeavors that spark curiosity. I completed my Master's by Research (M.Tech-RA) in Computer Science from IIT-Hyderabad, where I was fortunate to be advised by [Prof. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). During my graduate studies, I also had the opportunity to work as a visiting researcher at the University of Toronto and Vector Institute with [Prof. Animesh Garg](https://animesh.garg.tech/).
 
 My research journey began in computer vision and deep learning during my Master's, where I explored [Data-efficient learning](https://chaitanya.one/resume/Masters_Thesis_Chaitanya.pdf) techniques including active learning, transfer learning, and multi-modal learning. Currently, my work spans the broader spectrum of Generative AI, where I combine research insights with engineering to deliver useful solutions. Throughout my academic career, I've maintained a strong connection to education and teaching, serving as a Teaching Assistant for various courses at IIT-Hyderabad and serving as mentor and coach with platforms like Udacity and UpGrad.
 
@@ -40,6 +40,14 @@ Apart from my research, I like teaching (and therefore learning) state-of-the-ar
 <table class='news-table' >
     <col width="15%">
     <col width="85%">
+    <tr>
+ 	<td valign="top"><strong>[Nov 2025]</strong></td>
+	<td>Our <a href="https://ast-fri.github.io/">group website</a> is up!</td>
+    </tr>
+    <tr>
+ 	<td valign="top"><strong>[Sep 2025]</strong></td>
+	<td>Our work on Adaptive LLM Routing work was featured in the "Hot" papers of <a href="https://www.alphaxiv.org/">alphaXiv</a>, Top AI in AI for week of Sep 1-7th, thanks to <a href="https://x.com/omarsar0/status/1962875108512411938">elvis</a> and <a href="https://x.com/dair_ai/status/1964727762658455744">DAIR.ai</a>. <a href="https://news.ycombinator.com/item?id=45094421">#1 on Hackernews</a> 🌟</td>
+    </tr>
     <tr>
  	<td valign="top"><strong>[Aug 2025]</strong></td>
 	<td>Three papers accepted at EMNLP-2025 (One in Main track and two in Findings) 🌟</td>

@@ -13,9 +13,12 @@ Currently, my research interest spans the broader spectrum of Generative AI. I g
 
 * [**Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments**]()  
 Harsh Vishwakarma, Ankush Agarwal, Ojas Patil, **Chaitanya Devaguptapu**, Mahesh Chandran<br>
-In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Main Track)<br>
+In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Main Track)<br> <span style="color:blue;font-size:15px" >Nominated for Best Resource Paper Award at EMNLP-2025
+<br>
 [<button type="button" class="btn btn-danger">Paper</button>](https://aclanthology.org/2025.emnlp-main.466/)
 [<button type="button" class="btn btn-warning">Blog</button>](https://ast-fri.github.io/EnterpriseBench/)
+
+
 
 * [**Adaptive LLM Routing under Budget Constraints**]()  
 Pranoy Panda, Raghav Magazine, **Chaitanya Devaguptapu**, Sho Takemori, Vishal Sharma<br>
