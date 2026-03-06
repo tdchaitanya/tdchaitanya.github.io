@@ -18,8 +18,6 @@ In Proceedings of the 2025 Conference on Empirical Methods in Natural Language P
 [<button type="button" class="btn btn-danger">Paper</button>](https://aclanthology.org/2025.emnlp-main.466/)
 [<button type="button" class="btn btn-warning">Blog</button>](https://ast-fri.github.io/EnterpriseBench/)
 
-
-
 * [**Adaptive LLM Routing under Budget Constraints**]()  
 Pranoy Panda, Raghav Magazine, **Chaitanya Devaguptapu**, Sho Takemori, Vishal Sharma<br>
 In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Findings)<br> 
@@ -31,7 +29,6 @@ Pranav Bhagat, K N Ajay Shastry, Pranoy Panda, **Chaitanya Devaguptapu**<br>
 In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 - Findings)<br>
 [<button type="button" class="btn btn-danger">Paper</button>](https://aclanthology.org/2025.findings-emnlp.1314/)
 [<button type="button" class="btn btn-warning">Blog</button>](https://ast-fri.github.io/bdd_evaluation/)
-
 
 * [**Finding Needles in Images: Can Multimodal LLMs Locate Fine Details?**](https://www.arxiv.org/abs/2508.05053)  
 Parth Thakkar, Ankush Agarwal, Prasad Kasu, Pulkit Bansal, **Chaitanya Devaguptapu**<br>
@@ -126,4 +123,4 @@ object detection in thermal images by increasing the resolution of 160 x 120 ima
 resolution and various deep learning based image interpolation techniques. This was a joint project
 with DRDO, Government of India  
 
-* **Indian patent** -  Chaitanya Devaguptapu, Ninad Akolekar, Manuj M Sharma, Vineeth N Balasubramanian, A Methodology for Transfer of Knowledge from Data-Rich Domains for Thermal Image Processing, Indian Patent Application No. 202011032663 (filed in Aug 2020)  
+* **Indian patent** -  Chaitanya Devaguptapu, Ninad Akolekar, Manuj M Sharma, Vineeth N Balasubramanian, METHOD FOR OBJECT DETECTION IN THERMAL IMAGES USING DATA-RICH DOMAINS AND AN OBJECT DETECTOR THEREOF, Indian Patent Application No. 202011032663 (<s>filed in Aug 2020</s>, granted in Dec 2025)  
